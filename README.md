@@ -8,6 +8,8 @@ Open CV 3.2.0 for Python 3.5 (if anyone having trouble) :
 https://www.begueradj.com/installing-opencv-3.2.0-for-python-3.5.2-on-ubuntu-16.04.2-lts.html
     
 Original Readme :
+
+
 Explorations of Using Python to play Grand Theft Auto
 
 Pull requests welcome.
